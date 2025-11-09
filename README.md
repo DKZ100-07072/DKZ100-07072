@@ -2,6 +2,12 @@
 > 这里不知道写啥好(
 > 
 > I don't know what to write here. <!--机翻-->
+---
+<!--
+- [bilibili](//space.bilibili.com/3493079971531233)
+- [qq](data:text/plain,%E6%8B%92%E7%BB%9D%E8%AE%BF%E9%97%AE%E3%80%82)
+-->
+
 <!--
 **DKZ100-07072/DKZ100-07072** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
